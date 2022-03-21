@@ -1,10 +1,7 @@
+import AllTodos from './components/all.todos';
 
-const App=()=> {
-  return (
-    <div className="App">
-  
-    </div>
-  );
-}
+const App = () => (
+  <AllTodos />
+);
 
 export default App;
