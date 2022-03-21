@@ -1,10 +1,10 @@
 ![](https://img.shields.io/badge/Microverse-blueviolet)
 
-# Project Title
+# Todo App
 
-> Project description paragraph with 30 words. 
+> This is a to do app. 
 
-![screenshot]()
+![screenshot](./Screen-Shot.png)
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 

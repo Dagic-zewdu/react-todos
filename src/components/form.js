@@ -6,6 +6,7 @@ function AddForm({ setTodo }) {
   const handleSubmit = (e) => {
     e.preventDefault();
     addItem(description, setTodo);
+    setDescription('');
   };
   return (
     <form id="add-form" onSubmit={handleSubmit}>
